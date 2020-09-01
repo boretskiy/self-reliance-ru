@@ -16,30 +16,30 @@
 *номер_абзаца* **.** *номер_предложения* **пробел** *предложение* **перевод_строки**
 Абзацы разделяются переводом строки.
 
-##Источник:
+## Источник:
 http://www.gutenberg.org/ebooks/16643
 
-##Лицензия:
+## Лицензия:
 «Attribution—NonCommercial» («Атрибуция — Некоммерческое использование») 4.0 Всемирная (CC BY—NC 4.0) http://creativecommons.org/licenses/by—nc/4.0/
 
-##Перевод:
+## Перевод:
 Василий Борецкий vasiliy.boretskiy@gmail.com
 
-##Эпиграф в стихах
+## Эпиграф в стихах
 переведен Евгенией Цвятко murmuryska@yandex.ru
 
-Cast the bantling on the rocks,
-Suckle him with the she-wolf's teat;
-Wintered with the hawk and fox,
-Power and speed be hands and feet.
+> Cast the bantling on the rocks,
+> Suckle him with the she-wolf's teat;
+> Wintered with the hawk and fox,
+> Power and speed be hands and feet.
 
-Скинь ублюдка в скалах вниз!
-Волчьим вскормлен молоком,
-Пусть зимует среди лис.
-Рук мощнее, ног быстрее
-Не найдешь нигде потом. 
+> Скинь ублюдка в скалах вниз!
+> Волчьим вскормлен молоком,
+> Пусть зимует среди лис.
+> Рук мощнее, ног быстрее
+> Не найдешь нигде потом. 
 
-##Переводы Эмерсона на русский язык:
+## Переводы Эмерсона на русский язык:
 * Писатели США о литературе. Том 1 (А. Зверев)
   * Доверие к себе
 * Ральф Эмерсон. Нравственная философия (аноним?):
