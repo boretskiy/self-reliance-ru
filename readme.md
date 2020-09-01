@@ -28,16 +28,16 @@ http://www.gutenberg.org/ebooks/16643
 ## Эпиграф в стихах
 переведен Евгенией Цвятко murmuryska@yandex.ru
 
-> Cast the bantling on the rocks,
-> Suckle him with the she-wolf's teat;
-> Wintered with the hawk and fox,
-> Power and speed be hands and feet.
+	Cast the bantling on the rocks,
+	Suckle him with the she-wolf's teat;
+	Wintered with the hawk and fox,
+	Power and speed be hands and feet.
 
-> Скинь ублюдка в скалах вниз!
-> Волчьим вскормлен молоком,
-> Пусть зимует среди лис.
-> Рук мощнее, ног быстрее
-> Не найдешь нигде потом. 
+	Скинь ублюдка в скалах вниз!
+	Волчьим вскормлен молоком,
+	Пусть зимует среди лис.
+	Рук мощнее, ног быстрее
+	Не найдешь нигде потом. 
 
 ## Переводы Эмерсона на русский язык:
 * Писатели США о литературе. Том 1 (А. Зверев)
